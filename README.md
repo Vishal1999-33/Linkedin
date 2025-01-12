@@ -1,4 +1,4 @@
-# Designing a Professional Networking Platform like LinkedIn
+# Designed a Professional Networking Platform like LinkedIn
 
 ## Requirements
 #### User Registration and Authentication:
